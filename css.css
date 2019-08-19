@@ -1,7 +1,17 @@
 #Titulo{
   font-family: Harrington;
+  font-size: 3em;
+}
+ #cabeçalho{
+   background-color: #c2c2f0;
 }
 
 .nav-link{
 font-family:  Copperplate;
+font-size: 1.1em;
+}
+
+#imgfundo{
+  background-color: black;
+  background-image: url("images/img1.jpg" );
 }
