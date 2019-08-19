@@ -3,7 +3,7 @@
   font-size: 3em;
 }
  #cabeçalho{
-   background-color: #c2c2f0;
+   background-color: #7D807F;
 }
 
 .nav-link{
@@ -13,5 +13,7 @@ font-size: 1.1em;
 
 #imgfundo{
   background-color: black;
-  background-image: url("images/img1.jpg" );
+
+
+
 }
